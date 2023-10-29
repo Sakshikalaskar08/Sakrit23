@@ -13,4 +13,4 @@ Public Class LoginForm
             MessageBox.Show("Login Failed")
         End If
     End Sub
-End Clas
+End Class
